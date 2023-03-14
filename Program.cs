@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string original = "1 2 3 4 5";
+        string original = " 1 2 3 4 5 ";
 
         string invertida = "";
 
